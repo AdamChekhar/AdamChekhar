@@ -1,4 +1,9 @@
 ### Hi there 👋
+### Minimalistic Style
+Embracing a minimalistic approach is not just about simplicity; it's about finding the essence of what truly matters. By stripping away the unnecessary, we allow the core elements to shine, creating a harmonious balance between form and function.
+
+This README exemplifies the principles of minimalism, where every word and line serves a purpose. It is a testament to the power of restraint, where less can often convey more.
+
 ### Featured Project:
 #### [helloWorld.py](https://github.com/AdamChekhar/-byb_project-/blob/master/helloWorld.py)
 <!--
