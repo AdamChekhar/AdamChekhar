@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Featured Project
+### Featured Project:
 #### [helloWorld.py](https://github.com/AdamChekhar/-byb_project-/blob/master/helloWorld.py)
 <!--
 **AdamChekhar/AdamChekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
